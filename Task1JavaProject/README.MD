@@ -124,3 +124,6 @@ Author
 GAHRAMAN Huseynov
 Computer Engineering Student
 Vistula University
+
+
+![Project image](1.jpeg)
