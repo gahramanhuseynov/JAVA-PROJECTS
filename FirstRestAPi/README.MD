@@ -209,7 +209,12 @@ These methods do not need to be implemented manually because Spring Data JPA
 generates them automatically at runtime.
 
 
-![Project image1](1.png)
+![Project image](1.png)
+![Project image](2.png)
+![Project image](3.png)
+![Project image](4.png)
+![Project image](5.png)
+![Project image](6.png)
 
 
 
